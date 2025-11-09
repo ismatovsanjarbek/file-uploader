@@ -1,6 +1,6 @@
 # file-uploader
 
-File upload with Express js
+File uploader using Express js
 
 # USED
  - Node js
@@ -11,4 +11,3 @@ File upload with Express js
  - multer-gridfs-storage
  - crypto
  - ejs
-# SETUP
